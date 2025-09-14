@@ -4,6 +4,7 @@ Regra: aprovado se nota >= 7 E faltas <= 10.
 Caso contrário, reprovado.
 */
 
+// Define variáveis para texto e valores;
 var materia: string = "Matemática";
 var nota: number = 9;
 var faltas: number = 12;
